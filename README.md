@@ -1,13 +1,10 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+Introdução: BlogsAPI é um projeto do curso de Desenvolvedor Web Full Stack da Trybe, para o módulo de backend. Foi desenvolvido uma API para alimentar a produção de um conteúdo para um blog, passando por login do usuário do blog, utilizando da biblioteca JWT para geração e validação do token, aonde era permitido postar/alterar/deletar dados somente após autenticação do token do usuário.
+Também foi utilizado o  ORM Sequelize para fazer a migração, popular e fazer requisições do banco de dados MySQL.
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Desafios: Esse projeto foi mais trabalhoso do que desafiador, foi o primeiro projeto utilizando o ORM Sequelize, identificar e configurar as relações entre as tabelas no inicio demanda tempo e atenção, mas depois facilita muito a comunição com o banco de dados.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Tecnologias Utilizadas: Docker, Node.js, Sequelize, MySQL, Javascript.
+
+Todo a parte desenvolvida por mim foi realizado na pasta /src
+
+![image](https://user-images.githubusercontent.com/96309898/206794002-3897d8df-949b-4c90-875a-734a3dd4f606.png)
